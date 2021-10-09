@@ -1,0 +1,32 @@
+th{
+    padding: 10px;
+}
+.tabela{
+    background-color: darkslategrey;
+    color: white;
+    width: 450px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px greenyellow;
+}
+.foto{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 3px 3px 3px 3px greenyellow;
+}
+#foto{
+    margin-left: 8%;
+}
+#sobre{
+    width: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: darkseagreen;
+    border: 2px solid black;
+    box-shadow: 3px 3px 3px 3px greenyellow;
+}
+#panel{
+    margin-bottom: 2%;
+}
